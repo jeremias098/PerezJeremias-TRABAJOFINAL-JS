@@ -1,0 +1,103 @@
+[
+    {
+        "id": "call-of-duty",
+        "titulo": "Call of duty",
+        "imagen": "./img/g1.jpg",
+        "categoria": {
+            "nombre": "Accion",
+            "id": "accion"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "battlefield",
+        "titulo": "Battlefield",
+        "imagen": "./img/g2.jpg",
+        "categoria": {
+            "nombre": "Accion",
+            "id": "accion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "halo",
+        "titulo": "Halo",
+        "imagen": "./img/g3.jpg",
+        "categoria": {
+            "nombre": "Accion",
+            "id": "accion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "fornite",
+        "titulo": "Fornite",
+        "imagen": "./img/g4.jpg",
+        "categoria": {
+            "nombre": "Estrategia",
+            "id": "estrategia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "crush",
+        "titulo": "Crush",
+        "imagen": "./img/g5.jpg",
+        "categoria": {
+            "nombre": "Estrategia",
+            "id": "estrategia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "gta-v",
+        "titulo": "GTA V",
+        "imagen": "./img/g6.jpg",
+        "categoria": {
+            "nombre": "Estrategia",
+            "id": "estrategia"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "the-surge",
+        "titulo": "The surge",
+        "imagen": "./img/g7.jpg",
+        "categoria": {
+            "nombre": "Accion",
+            "id": "accion"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "f1-22",
+        "titulo": "F1 2022",
+        "imagen": "./img/g8.jpg",
+        "categoria": {
+            "nombre": "Deportes",
+            "id": "deportes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "fc24",
+        "titulo": "FC24",
+        "imagen": "./img/g9.jpg",
+        "categoria": {
+            "nombre": "Deportes",
+            "id": "deportes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "w2k23",
+        "titulo": "W2K23",
+        "imagen": "./img/g10.jpg",
+        "categoria": {
+            "nombre": "Deportes",
+            "id": "deportes"
+        },
+        "precio": 1000
+    }
+   
+]
